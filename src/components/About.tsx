@@ -10,10 +10,10 @@ const About = () => {
      <div className="title" data-aos="zoom-in" data-aos-duration="1100" data-aos-delay="200"><span>About Me</span></div>
     <div className="about-deta">
         <div className="right">
-        <p className="about-text">I am <span>Rimsha</span> " I am a dedicated web developer and experienced teacher with skills in HTML, CSS, and TypeScript.
-     I'm passionate about creating visually appealing and effective websites using modern development practices.
-     I am also proficient in MS Office, which supports my professional and teaching work. Teaching is my passion,
-     and I am always eager to help my students learn new concepts and support their growth."</p>
+        <p className="about-text">I am <span>Rimsha</span>  I am a dedicated web developer and experienced teacher with skills in HTML  CSS  and TypeScript.
+     I m passionate about creating visually appealing and effective websites using modern development practices
+     I am also proficient in MS Office which supports my professional and teaching work Teaching is my passion
+     and I am always eager to help my students learn new concepts and support their growth</p>
         <div className="exp-area ">
             <p className="exp">Experience:
              <span>1 years</span>

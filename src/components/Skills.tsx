@@ -9,7 +9,7 @@ const Skills = () => {
         <div className="skill-deta">
             <div className="text">
                 <div className="topic text-white">Skills Reflects Our Knowledge</div>
-                <p>"My skills in web development and computer science include extensive experience with HTML, CSS, and TypeScript. I am also proficient in MS Office and have teaching experience, which enhances my ability to apply both technical and non-technical skills effectively. Completing each project with excellence is my hallmark."</p>
+                <p>My skills in web development and computer science include extensive experience with HTML CSS and TypeScript. I am also proficient in MS Office and have teaching experience which enhances my ability to apply both technical and non-technical skills effectively. Completing each project with excellence is my hallmark.</p>
                 <div className="experience">
                     <div className="num">1</div>
                     <div className="exp">

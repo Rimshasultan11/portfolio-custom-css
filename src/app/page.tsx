@@ -9,7 +9,7 @@ import Skills from '@/components/Skills'
 import Projects from '@/components/Projects'
 import Contact from '@/components/Contact'
 import Footer from '@/components/Footer'
-const page = () => {
+const Home = () => {
   useEffect(()=>{
     AOS.init({
    easing : "ease-out-back",
@@ -36,4 +36,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Home
